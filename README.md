@@ -33,10 +33,10 @@
 <br />
 
 <div align="left">
-  <h2><b>PGP Public Keys</b></h2>
-  <span>For encrypted and private transmission of data or communication, use the key below:</span>
+  <h2><b>PGP Public Key</b></h2>
+  <span>For encrypted and private transmission of data or communication, use the public key below:</span>
   <pre><b><code><a href="https://github.com/mrwnmncd/mrwnmncd/tree/master/asc/38CFA52E.asc">DA26 9211 299C 38CF A52E</a></code> (38CFA52E)</b> 10 DEC 2023 - 16 SEPT 2024</pre> 
-  <span>These keys can also be used to verify digital signatures. See <a href="https://github.com/mrwnmncd/mrwnmncd/tree/master/asc/">asc</a> for previous keys.</span>
+  <span>See <code><a href="https://github.com/mrwnmncd/mrwnmncd/tree/master/asc/">asc</a></code> for previous and other keys. These may also be used to verify digital signatures.</span>
 </div>
 
 <br /><hr>
