@@ -64,4 +64,4 @@
     <br /><br /><br />
 </div>
 
-<span>more about me: <a>/mrwnmncd/workspace.md</a></span><br />
+<span>more about me: <a href="https://github.com/mrwnmncd/mrwnmncd/tree/master/mrwnmncd/workspace.md">/mrwnmncd/workspace.md</a></span><br />
