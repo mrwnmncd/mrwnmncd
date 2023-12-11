@@ -35,7 +35,7 @@
 <div align="left">
   <h2><b>PGP Public Key</b></h2>
   <span>For encrypted and private transmission of data or communication, use the public key below:</span>
-  <pre><b><code><a href="https://github.com/mrwnmncd/mrwnmncd/tree/master/asc/38CFA52E.asc">DA26 9211 299C 38CF A52E</a></code> (38CFA52E)</b> 10 DEC 2023 - 16 SEPT 2024</pre> 
+  <pre><b><code><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/B65942E3C4E51537C01CDA269211299C38CFA52E">DA26 9211 299C 38CF A52E</a></code> (38CFA52E)</b> 10 DEC 2023 - 16 SEPT 2024</pre> 
   <span>See <code><a href="https://github.com/mrwnmncd/mrwnmncd/tree/master/asc/">asc</a></code> for previous and other keys. These may also be used to verify digital signatures.</span>
 </div>
 
