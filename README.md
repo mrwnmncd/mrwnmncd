@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b> 🏅 mrwnmncd 🏅</b>
+  <b> mrwnmncd</b>
 </h1>
 <div align="center"><code>&lt; callighster &sol;&gt;</code></div>
 <br />
