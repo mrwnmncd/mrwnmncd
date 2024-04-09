@@ -44,18 +44,13 @@
   <span>See <code><a href="https://github.com/mrwnmncd/mrwnmncd/tree/master/asc/">asc</a></code> for previous and other keys. These may also be used to verify digital signatures.</span>
 </div>
 
-<br /><hr>
+<br />
 <div align="left">
-  <samp>
-    👾 JS Programmer (Node.js)
-  <br />
-    🐍 Python Programmer (.py)
-  <br />
-    👾 C# Programmer (.cs)
-  <br />
-      🌐 Web Developer (.js, .html, .css)
-  <br />
-  </samp>
+  <h2><b>DEV Stack</b></h2>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=ffffff" alt="C#"/>
+  <img src="https://img.shields.io/badge/JS_|_HTML_|_CSS-006CFF?style=for-the-badge&logo=safari&logoColor=ffffff" alt="Node"/>
 </div>
 
 <h3>Laguanges and Runtimes</h3>
