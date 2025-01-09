@@ -10,7 +10,7 @@
     📚 Information and Communications Technology <br />
     🗣️ ESTJ <br />
     📍 HB RM105 <br />
-    <a href="https://mhar.win">🌐 mhar.win</a>
+    🌐 <a href="https://mhar.win">mhar.win</a>
   </samp>
 </div>
 
