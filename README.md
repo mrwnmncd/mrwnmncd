@@ -10,7 +10,7 @@
     📚 Information and Communications Technology <br />
     🗣️ ESTJ <br />
     📍 HB RM105 <br />
-    🌐 <a href="https://mhar.win">mhar.win</a>
+    🌐 <a href="https://mrwnmncd.com">mrwnmncd.com</a>
   </samp>
 </div>
 
@@ -19,7 +19,7 @@
 <div align="left">
   <h2><b>GPG Public Key</b></h2>
   <span>For encrypted and private transmission of data or communication, use the public key below:</span>
-  <pre><b><code><a href="https://keys.openpgp.org/search?q=EEFD54AE0B389BC131D8496AAF68643D81668FE7">EEFD 54AE 0B38 9BC1 31D8 AF68 643D 8166 8FE7</a></code></b> 16 SEP 2021 - 16 SEPT 2061</pre> 
+  <pre><b><code><a href="https://keys.openpgp.org/search?q=AB7D5D2C9E40FD87C4AFECAC21BFF10373AF7CCC">AB7D 5D2C 9E40 FD87 C4AF  ECAC 21BF F103 73AF 7CCC</a></code></b> 16 SEP 2021 - 16 SEPT 2051</pre> 
   <span>See <code><a href="/public-keychain.md">public-keychain</a></code> for previous and other keys.</span>
 </div>
 
